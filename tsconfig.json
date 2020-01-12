@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "target": "es2018",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": ["src"]
+}
